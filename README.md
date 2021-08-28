@@ -1,6 +1,6 @@
-# python-template-repository
+# vegans
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+本リポジトリはvegans のexample リポジトリです。
 
 ## リポジトリ構成
 
@@ -33,13 +33,13 @@
 
 ## 環境構築
 
-- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
+- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/vegans）
 
 ```
-cd Desktop/python-template-repository
+cd Desktop/vegans
 ```
 
-- Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
+- Dockerによる環境構築（フォルダをマウント：Desktop/vegans）
 
 ```
 docker-compose up --build
