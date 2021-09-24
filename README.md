@@ -13,6 +13,15 @@
 ├── docs
 ├── models
 ├── notebooks
+│   ├── 00_univariate-gaussian.ipynb
+│   ├── 01_multivariate-gaussian.ipynb
+│   ├── 02_mnist.ipynb
+│   ├── 03_mnist-conditional.ipynb
+│   ├── 03_mnist_conditional.ipynb
+│   ├── 04_mnist-image-to-image.ipynb
+│   ├── 05_create-your-own-LSGAN.ipynb
+│   ├── 06_create-your-own-Pix2PixGAN.ipynb
+│   └── 07_create-your-own-LR-GAN.ipynb
 ├── pyproject.toml
 ├── requirements.txt
 ├── setup.cfg
